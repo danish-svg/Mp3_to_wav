@@ -1,4 +1,7 @@
 from os import path
+#First install pydub by -
+#pip install pydub (in cmd)
+#sudo pip3 install pydub (in terminal)
 from pydub import AudioSegment
 
 # mp3file                                                                         
