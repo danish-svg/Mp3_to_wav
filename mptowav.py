@@ -1,8 +1,9 @@
 from os import path
 from pydub import AudioSegment
 
-# files                                                                         
+# mp3file                                                                         
 src = "justin.mp3"
+#new wav file in which .wav file will be stored after converting mp3 to wav
 dst = "justin.wav"
 
 # convert wav to mp3                                                            
